@@ -3,11 +3,11 @@
 ## recursion
 ## search_and_sort
 ## binary_search
-## divide_and_conquer
+## divide_and_conquer 1
 ## linklist
 ## stack_queue
 ## hashtable
-## tree
+## tree 1
 ## heap
 ## graph
 ## two_pointers
