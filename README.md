@@ -9,10 +9,10 @@
 ## hashtable
 ## tree 1
 ## heap
-## graph
+## graph 
 ## two_pointers
 ## sliding_window
-## dynamic_planning
+## dynamic_planning 1
 ## greedy
 ## bit_manipulation
 ## string
@@ -27,6 +27,4 @@
 
 
 
-
-graph
-
+ 
